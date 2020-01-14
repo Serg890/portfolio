@@ -20,7 +20,7 @@
 
 .navbare {
   height: 80px;
-  background-color: rgba(128, 128, 128, 0.233);
+background-color: rgba(146, 146, 146, 0.562);
   text-align: center;
   position: sticky;
   top: 0;
@@ -202,7 +202,7 @@
 }
 
 .portfolio-block {
-  height: 770px;
+  min-height: 900px;
   background: rgb(158, 198, 201);
   background: linear-gradient(90deg, rgba(158, 198, 201, 1) 23%, rgba(217, 217, 217, 1) 51%);
 }
